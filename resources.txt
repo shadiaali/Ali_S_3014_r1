@@ -1,0 +1,5 @@
+resources/tutorials used:
+
+https://www.lynda.com/MySQL-tutorials/PHP-MySQL-Essential-Training-2-Build-CMS/587675-2.html
+
+https://www.codeofaninja.com/2013/03/php-login-script.html
